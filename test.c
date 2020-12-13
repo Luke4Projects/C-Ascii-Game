@@ -7,7 +7,7 @@ Code for a moving player on the screen
 
 Use 'W', 'A', 'S', 'D'   to move the player
 
-Compiled with MinGW-w64 for windows
+Compile with MinGW-w64 for windows
 
 */
 
